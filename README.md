@@ -1,6 +1,6 @@
 # Algoritmos Gulosos - Apresentação Interativa
 
-Uma apresentação moderna, interativa e premium sobre **Algoritmos Gulosos (Greedy Algorithms)**, contendo conceitos fundamentais, problemas clássicos detalhados com diagramas vetoriais (SVG), análises de eficiência e comparativos técnicos com Programação Dinâmica.
+Uma apresentação moderna e interativa sobre **Algoritmos Gulosos (Greedy Algorithms)**, contendo conceitos fundamentais, problemas clássicos detalhados com diagramas vetoriais (SVG), análises de eficiência e comparativos técnicos com Programação Dinâmica.
 
 ## 🚀 Apresentação Online (GitHub Pages)
 
