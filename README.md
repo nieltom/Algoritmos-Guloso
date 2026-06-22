@@ -7,6 +7,10 @@ Uma apresentação moderna, interativa e premium sobre **Algoritmos Gulosos (Gre
 Você pode visualizar os slides interativos diretamente no seu navegador através do link:
 👉 **[https://nieltom.github.io/Algoritmos-Guloso/](https://nieltom.github.io/Algoritmos-Guloso/)**
 
+### 📄 Versão em PDF
+Você também pode baixar a versão em PDF pronta para apresentação com o mesmo estilo dark do site:
+👉 **[Apresentacao_Algoritmos_Gulosos.pdf](Apresentacao_Algoritmos_Gulosos.pdf)**
+
 ---
 
 ## 👥 Integrantes do Grupo
